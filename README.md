@@ -1,3 +1,3 @@
 # Public_Access
-pip install PyGithub
-Run: python 
+# pip install PyGithub.
+# Run: python gitHub.py.
